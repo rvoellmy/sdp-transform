@@ -1,51 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "sdp-transform",
-        "scope": null,
-        "escapedName": "sdp-transform",
-        "name": "sdp-transform",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/home/rvoellmy/tmp/bla"
-    ]
-  ],
-  "_from": "sdp-transform@latest",
-  "_id": "sdp-transform@1.6.2",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/sdp-transform",
-  "_nodeVersion": "4.2.3",
-  "_npmOperationalInternal": {
-    "host": "packages-13-west.internal.npmjs.com",
-    "tmp": "tmp/sdp-transform-1.6.2.tgz_1458767741094_0.010873616673052311"
-  },
-  "_npmUser": {
-    "name": "clux",
-    "email": "analsandblaster@gmail.com"
-  },
-  "_npmVersion": "2.14.7",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "sdp-transform",
-    "scope": null,
-    "escapedName": "sdp-transform",
-    "name": "sdp-transform",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/sdp-transform/-/sdp-transform-1.6.2.tgz",
-  "_shasum": "1d309d0e754e24ee47b8ef1b8cfd47220502a736",
-  "_shrinkwrap": null,
-  "_spec": "sdp-transform",
-  "_where": "/home/rvoellmy/tmp/bla",
   "author": {
     "name": "Eirik Albrigtsen",
     "email": "analsandblaster@gmail.com"
@@ -62,20 +15,8 @@
     "jscoverage": "^0.5.5",
     "nodeunit": "^0.9.0"
   },
-  "directories": {},
-  "dist": {
-    "shasum": "1d309d0e754e24ee47b8ef1b8cfd47220502a736",
-    "tarball": "https://registry.npmjs.org/sdp-transform/-/sdp-transform-1.6.2.tgz"
-  },
-  "gitHead": "239b8f6690ba053550b52d30c9fce5a400434457",
-  "homepage": "https://github.com/clux/sdp-transform#readme",
-  "keywords": [
-    "sdp",
-    "webrtc",
-    "serializer"
-  ],
   "license": "MIT",
-  "main": "./lib/",
+  "main": "./lib/index.js",
   "maintainers": [
     {
       "name": "clux",
